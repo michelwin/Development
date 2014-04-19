@@ -7,8 +7,8 @@
     <ProjectGuid>{C26AA4BD-2FAF-457E-9A57-797BA9B1E6AE}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>TestThread</RootNamespace>
-    <AssemblyName>TestThread</AssemblyName>
+    <RootNamespace>ThreadLocalProject</RootNamespace>
+    <AssemblyName>ThreadLocalProject</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <PublishUrl>publish\</PublishUrl>

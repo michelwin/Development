@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace TestThread.ServiceReference1 {
+namespace ThreadLocalProject.ServiceReference1 {
     
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
@@ -23,12 +23,12 @@ namespace TestThread.ServiceReference1 {
     }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
-    public interface ISimpleServiceChannel : TestThread.ServiceReference1.ISimpleService, System.ServiceModel.IClientChannel {
+    public interface ISimpleServiceChannel : ThreadLocalProject.ServiceReference1.ISimpleService, System.ServiceModel.IClientChannel {
     }
     
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
-    public partial class SimpleServiceClient : System.ServiceModel.ClientBase<TestThread.ServiceReference1.ISimpleService>, TestThread.ServiceReference1.ISimpleService {
+    public partial class SimpleServiceClient : System.ServiceModel.ClientBase<ThreadLocalProject.ServiceReference1.ISimpleService>, ThreadLocalProject.ServiceReference1.ISimpleService {
         
         public SimpleServiceClient() {
         }
