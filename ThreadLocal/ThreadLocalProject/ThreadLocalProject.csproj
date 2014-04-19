@@ -69,7 +69,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
     <None Include="Service References\ServiceReference1\SimpleService.wsdl" />
     <None Include="Service References\ServiceReference1\SimpleService.xsd">
       <SubType>Designer</SubType>
